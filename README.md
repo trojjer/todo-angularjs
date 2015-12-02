@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
@@ -295,3 +296,7 @@ For more information on AngularJS please check out http://angularjs.org/
 [karma]: http://karma-runner.github.io
 [travis]: https://travis-ci.org/
 [http-server]: https://github.com/nodeapps/http-server
+=======
+# todo-angularjs
+A demo todo list app with user account and localStorage support, implemented with AngularJS.
+>>>>>>> 3f435e3d8ef543661d96e9f53e73d57f92c7fb79
